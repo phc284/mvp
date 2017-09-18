@@ -1,7 +1,7 @@
 {
   "name": "hratx29-mvp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Build a NFL Team search",
   "main": "index.js",
   "scripts": {
     "test": "nodemon server.js"
@@ -26,6 +26,8 @@
     "browserify-middleware": "^7.1.0",
     "express": "^4.15.3",
     "jquery": "^3.2.1",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.12",
     "morgan": "^1.8.2",
     "nodemon": "^1.12.1",
     "react": "^15.5.4",
